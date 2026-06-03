@@ -1,0 +1,40 @@
+/* List styling */
+
+ul{
+    list-style-type: none;
+    list-style-position: inside;
+    padding: 0;
+}
+
+/* List item spacing */
+
+li{
+    margin: 10px;
+    padding: 10px;
+}
+
+/* Link styling */
+
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+}
+
+/* Hover effect */
+
+a:hover{
+    color: red;
+}
+
+/* Active link */
+
+a:active{
+    color: green;
+}
+
+/* Visited link */
+
+a:visited{
+    color: purple;
+}

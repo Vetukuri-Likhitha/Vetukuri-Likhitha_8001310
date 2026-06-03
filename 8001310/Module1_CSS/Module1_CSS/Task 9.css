@@ -1,0 +1,17 @@
+/* Heading styling */
+
+h1{
+    text-align: center;
+}
+
+/* Multi-column layout */
+
+.news{
+    column-count: 2;
+    column-gap: 30px;
+    column-rule: 1px solid gray;
+
+    padding: 20px;
+    font-size: 18px;
+    line-height: 30px;
+}
