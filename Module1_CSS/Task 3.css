@@ -1,0 +1,38 @@
+/* Universal selector */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* ID selector */
+
+#mainHeader{
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Element selector */
+
+h2{
+    color: green;
+    margin: 15px;
+}
+
+/* Class selector */
+
+.eventCard{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 15px;
+    background-color: lightgray;
+}
+
+/* Grouping selector */
+
+h3, p{
+    font-family: Arial;
+    color: darkblue;
+}

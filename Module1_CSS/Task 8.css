@@ -1,0 +1,33 @@
+/* Event card styling */
+
+.eventCard{
+    border: 3px solid black;
+    padding: 20px;
+    margin: 30px;
+    background-color: lightblue;
+}
+
+/* Outline example */
+
+input{
+    padding: 10px;
+    outline: 3px solid red;
+    margin: 20px;
+}
+
+/* Visibility hidden */
+
+.hiddenBox{
+    visibility: hidden;
+    background-color: lightgray;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Display none */
+
+.noneBox{
+    display: none;
+    background-color: pink;
+    padding: 20px;
+}
